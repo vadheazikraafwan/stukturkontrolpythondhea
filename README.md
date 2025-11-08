@@ -1,7 +1,7 @@
 # TUGAS INDIVIDU STRUKTUR KONTROL PYTHON
 ## Identitas
 - Nama: Vadhea Zikra Afwan
-- NIM: [2410017514015
+- NIM: 2410017514015
 - Kelas: TRKJ
 ## Studi Kasus
 Sistem ini digunakan untuk melakukan pemesanan tiket bioskop berdasarkan jenis tiket dan usia penonton.
