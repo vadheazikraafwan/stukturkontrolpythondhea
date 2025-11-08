@@ -19,7 +19,7 @@ Program meminta input nama film, jumlah tiket, jenis tiket, dan usia, lalu menen
 - [ ] For Loop
 - [ ] Nesting If
 ## Screenshot Output
-[Upload screenshot program yang dijalankan]
+Outputsistembookingtiket.png
 ## Cara Menjalankan
 1. Download file sistembookingtiket.py
 2. Run di Python: sistembookingtiket.py
